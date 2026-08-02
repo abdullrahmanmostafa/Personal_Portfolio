@@ -10,7 +10,7 @@ export const PERSONAL_INFO = {
   email: 'abdalrahmanmostafasoltan@gmail.com',
   location: 'Egypt (Available Globally)',
   badges: ['ASP.NET Core', 'AI/ML', 'Backend Architecture'],
-  profileImage: 'assets/profile_photo.png', // Sleek professional headshot
+  profileImage: '/blob/main/assets/profile_photo.png', // Sleek professional headshot
   github: 'https://github.com/abdullrahmanmostafa',
   linkedin: 'https://www.linkedin.com/in/abdullrahman-mostafa-477314245',
   twitter: 'https://x.com/3bdullrahman_23?s=21&t=_Utfq6BhXXCDRUG2iMANTg',
